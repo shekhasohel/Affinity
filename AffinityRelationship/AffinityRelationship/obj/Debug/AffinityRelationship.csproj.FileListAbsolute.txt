@@ -1,0 +1,6 @@
+c:\users\sohel shekma\documents\visual studio 2015\Projects\AffinityRelationship\AffinityRelationship\bin\Debug\AffinityRelationship.exe.config
+c:\users\sohel shekma\documents\visual studio 2015\Projects\AffinityRelationship\AffinityRelationship\bin\Debug\AffinityRelationship.exe
+c:\users\sohel shekma\documents\visual studio 2015\Projects\AffinityRelationship\AffinityRelationship\bin\Debug\AffinityRelationship.pdb
+c:\users\sohel shekma\documents\visual studio 2015\Projects\AffinityRelationship\AffinityRelationship\obj\Debug\AffinityRelationship.csprojResolveAssemblyReference.cache
+c:\users\sohel shekma\documents\visual studio 2015\Projects\AffinityRelationship\AffinityRelationship\obj\Debug\AffinityRelationship.exe
+c:\users\sohel shekma\documents\visual studio 2015\Projects\AffinityRelationship\AffinityRelationship\obj\Debug\AffinityRelationship.pdb
